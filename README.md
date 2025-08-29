@@ -4,33 +4,29 @@ The aim of this assignment is to demonstrate your understanding of the theory pr
 
 
 
-\# SecDevOps Docker \& Kubernetes Project
+\# How to Run
 
 
 
-\## How to Run
+\# Project Management Documentation
 
 
 
-\## Project Management Documentation
+\## Milestones \& Deliverables
 
 
 
-\### Milestones \& Deliverables
+\## System Architecture
 
 
 
-\### System Architecture
+\## Version Control
 
 
 
-\### Version Control
+\## ZAP Baseline \& Active
 
 
 
-\### ZAP Baseline \& Active
-
-
-
-\### Final Outcome
+\## Final Outcome
 
